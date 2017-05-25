@@ -26,3 +26,5 @@ sublime text3 编辑器是我们用来编译latex的界面工具。
 \end{document}
 ```
 
+此时应该会弹出package control的对话框，你应该选择采用xelatex引擎编译。
+
